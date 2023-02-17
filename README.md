@@ -99,9 +99,33 @@ Download/install MSQL Server from here . Name the server osTicket and enter your
 <p>
 <img src="https://i.imgur.com/dj9YHOD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>.
 <img src="https://i.imgur.com/UKU95B5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-
+<img src="https://i.imgur.com/twqaevN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Open IIS as admin. 
+Open IIS as admin. Open PHP Manager->Register new PHP ENTER: C:->PHP->php-cgi.exe. Now restart the server. 
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/gDHbkt7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Download/install osTicket using this link. Open osticket->upload. Extract the upload file into C:->Inetpub->wwwroot. Now rename the "upload" folder to "osTicket". Now, return to ISS and restart the server. 
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/VPQS3V4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+In IIS->sites->defout-.osTicket->*80 to open osTicket in your internet browser.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/1edLrbk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+In ISS open sites->osTicket->PHP Manager->Enable or disable extensions, enable extensions: phpopcash, phpImap, phpintl. Refresh the osTicket tab in your internet explorer. 
 </p>
 <br />
