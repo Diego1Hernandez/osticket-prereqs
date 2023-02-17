@@ -52,7 +52,37 @@ Open Remote Desktop Connection then connect to your virtual machine by typing it
 </p>
 <p>
 In the VM, right-click the windows menu->Run=>Control
+</p>
+<br />
 
+<p>
+<img src="https://i.imgur.com/Ei0U4Jd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
 ->Programs->
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/yJu56Ra.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Turn Windows features on or of-> Internet Information Services->World Wide Web->Application Development features->CGI
+</p>
+<br />
+
+<p>
+<img src="https://https://i.imgur.com/L0lHN84.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Activating CGI allows us to host a webpage on our own network. Test this by typing 127.0.0.1 into google.com in your VM. 
+</p>
+<br />
+
+<p>
+<img src="https://https://i.imgur.com/L0lHN84.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Activating CGI allows us to host a webpage on our own network. Test this by typing 127.0.0.1 into google.com in your VM. 
 </p>
 <br />
