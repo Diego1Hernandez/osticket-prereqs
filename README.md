@@ -72,7 +72,7 @@ Turn Windows features on or of-> Internet Information Services->World Wide Web->
 <br />
 
 <p>
-<img src="https://https://i.imgur.com/L0lHN84.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/L0lHN84.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Activating CGI allows us to host a webpage on our own network. Test this by typing 127.0.0.1 into google.com in your VM. 
@@ -80,7 +80,7 @@ Activating CGI allows us to host a webpage on our own network. Test this by typi
 <br />
 
 <p>
-<img src="https://https://i.imgur.com/L0lHN84.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/L0lHN84.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Activating CGI allows us to host a webpage on our own network. Test this by typing 127.0.0.1 into google.com in your VM. 
