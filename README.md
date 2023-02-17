@@ -132,4 +132,57 @@ In ISS open sites->osTicket->PHP Manager->Enable or disable extensions, enable e
 <br />
 
 <p>
-<img src="https://i.imgur.com/rSdryq4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/KpoAt9i.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Next rename the file "Ostsampleconfig" to "Ostconfig". This file can be found in Browse->wwwroot->include->Ostsampleconfig.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/ceHaTx7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Now, right-click "ostconfig"->open properties->security->advanced->disable inheritance->remove all permissions. Then select "EVERYONE" and apply.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/qInGkfb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Download/install heidi from this link. Next right-click->create new->database->and name it osTicket.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/t8X3F9s.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Open osTicket in your internet browser and fill out the installation details and install.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/hDFRuXm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Next delete the folder named "setup" this folder is in osTicket->Setup. 
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/zb2lSeh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Next, right-click "ostconfig"->properties->security->advanced->disable inheritance->modify->read only. Then select "EVERYONE" and apply. 
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/KshWQ4z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Next open this link and log in to osTicket with the credentials you created when filling out the osTicket installation page.
+</p>
+<br />
