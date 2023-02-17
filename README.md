@@ -97,11 +97,11 @@ Download/install MSQL Server from here . Name the server osTicket and enter your
 <br />
 
 <p>
-<img src="<img src="https://i.imgur.com/bV668o5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>.
-<img src="https://i.imgur.com/bV668o5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/bV668o5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/dj9YHOD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>.
+<img src="https://i.imgur.com/UKU95B5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 <p>
-Activating CGI allows us to host a webpage on our own network. Test this by typing 127.0.0.1 into google.com in your VM. 
+Open IIS as admin. 
 </p>
 <br />
