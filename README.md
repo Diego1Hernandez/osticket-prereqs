@@ -35,7 +35,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/RPoVYi2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-First step is creating our Windows 10 virtual machine(VM) on Azure. THis can be done on Azure by opeinging Virtual Machines->Create->Windows 10/create username and password->Review->Create. 
+First step is creating our Windows 10 virtual machine(VM) on Azure. This can be done on Azure by opeinging Virtual Machines->Create->Windows 10/create username and password->Review->Create. 
 </p>
 <br />
 
@@ -43,7 +43,7 @@ First step is creating our Windows 10 virtual machine(VM) on Azure. THis can be 
 <img src="https://i.imgur.com/eyelds7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Open Remote Desktop Connection then connect to your virtual machine by typing it's ip address into Remote Desktop Connection. Use the credentials you created for the virtual machine.
+Open Remote Desktop Connection then connect to your virtual machine by typing the VM's ip address into Remote Desktop Connection. Use the credentials you created for the virtual machine to login.
 </p>
 <br />
 
@@ -51,7 +51,7 @@ Open Remote Desktop Connection then connect to your virtual machine by typing it
 <img src="https://i.imgur.com/tlDjrht.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In the VM, right-click the windows menu->Run=>Control
+In the VM, right-click the windows menu->Run->Control->
 </p>
 <br />
 
@@ -59,7 +59,7 @@ In the VM, right-click the windows menu->Run=>Control
 <img src="https://i.imgur.com/Ei0U4Jd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-->Programs->
+Programs->
 </p>
 <br />
 
@@ -67,7 +67,7 @@ In the VM, right-click the windows menu->Run=>Control
 <img src="https://i.imgur.com/yJu56Ra.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Turn Windows features on or of-> Internet Information Services->World Wide Web->Application Development features->CGI
+Turn Windows features on or off-> Internet Information Services->World Wide Web->Application Development features->CGI
 </p>
 <br />
 
