@@ -124,8 +124,12 @@ In IIS->sites->defout-.osTicket->*80 to open osTicket in your internet browser.
 
 <p>
 <img src="https://i.imgur.com/1edLrbk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/rSdryq4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 In ISS open sites->osTicket->PHP Manager->Enable or disable extensions, enable extensions: phpopcash, phpImap, phpintl. Refresh the osTicket tab in your internet explorer. 
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/rSdryq4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
