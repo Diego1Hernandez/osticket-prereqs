@@ -83,7 +83,7 @@ Activating CGI allows us to host a webpage on our own network. Test this by typi
 <img src="https://i.imgur.com/M4Sr5aK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Next, download/install VC_Redlist. Here is the link[https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6]
+Next, download/install VC_Redlist. This is a program needed for PHP to operate. Here is the [link](https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6)
 </p>
 <br />
 
@@ -92,7 +92,7 @@ Next, download/install VC_Redlist. Here is the link[https://drive.google.com/dri
 <img src="https://i.imgur.com/5MLCxwJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Download/install MSQL Server from here . Name the server osTicket and enter your root password and press enter to create a server for your osTicket to use.
+Download/install MSQL Server from [here](https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6). This is the server your osTicket will be operating on. Name the server osTicket and enter username:root password:Password and press enter to create a server for your osTicket to use.
 </p>
 <br />
 
@@ -110,7 +110,7 @@ Open IIS as admin. Open PHP Manager->Register new PHP ENTER: C:->PHP->php-cgi.ex
 <img src="https://i.imgur.com/gDHbkt7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Download/install osTicket using this link. Open osticket->upload. Extract the upload file into C:->Inetpub->wwwroot. Now rename the "upload" folder to "osTicket". Now, return to ISS and restart the server. 
+Download/install osTicket using this [link](https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6). Open osticket->upload. Extract the upload file into C:->Inetpub->wwwroot. Now rename the "upload" folder to "osTicket". Now, return to ISS and restart the server. 
 </p>
 <br />
 
@@ -118,7 +118,7 @@ Download/install osTicket using this link. Open osticket->upload. Extract the up
 <img src="https://i.imgur.com/VPQS3V4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In IIS->sites->defout-.osTicket->*80 to open osTicket in your internet browser.
+In IIS->sites->default Web Services->osTicket->*80 to open osTicket in your internet browser.
 </p>
 <br />
 
@@ -127,7 +127,7 @@ In IIS->sites->defout-.osTicket->*80 to open osTicket in your internet browser.
 <img src="https://i.imgur.com/rSdryq4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In ISS open sites->osTicket->PHP Manager->Enable or disable extensions, enable extensions: phpopcash, phpImap, phpintl. Refresh the osTicket tab in your internet explorer. 
+Now we need to enable some extensions so that our osTicket can operate. In ISS open sites->osTicket->PHP Manager->Enable or disable extensions, enable extensions: ph.pop.cash.dll, phpImap.dll, phpintl.dll. Refresh the osTicket tab in your internet explorer. 
 </p>
 <br />
 
@@ -151,7 +151,7 @@ Now, right-click "ostconfig"->open properties->security->advanced->disable inher
 <img src="https://i.imgur.com/qInGkfb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Download/install heidi from this link. Next right-click->create new->database->and name it osTicket.
+Download/install heidi from this [link](https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6). Next right-click->create new->database->and name it osTicket.
 </p>
 <br />
 
@@ -186,3 +186,4 @@ Next, right-click "ostconfig"->properties->security->advanced->disable inheritan
 Next open this link and log in to osTicket with the credentials you created when filling out the osTicket installation page.
 </p>
 <br />
+You have now installed osTicket on your system.
