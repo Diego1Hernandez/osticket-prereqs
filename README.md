@@ -35,7 +35,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/RPoVYi2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-First step is creating our Windows 10 virtual machine(VM) on Azure. This can be done on Azure by opeinging Virtual Machines->Create->Windows 10/create username and password->Review->Create. 
+First step is creating our Windows 10 virtual machine(VM) on Azure. This can be done on Azure by opening Virtual Machines->Create->Windows 10/create username and password->Review->Create. 
 </p>
 <br />
 
@@ -83,7 +83,7 @@ Activating CGI allows us to host a webpage on our own network. Test this by typi
 <img src="https://i.imgur.com/M4Sr5aK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Next, download/install VC_Redlist. Here is the link 
+Next, download/install VC_Redlist. Here is the link[https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6]
 </p>
 <br />
 
